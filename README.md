@@ -1,6 +1,6 @@
 # Claude Code Skills Collection
 
-**240+ Claude Code skills converted from Cursor rules. Supercharge your AI coding with expert guidelines for React, Python, TypeScript, and everything in between.**
+**265+ Claude Code skills converted from Cursor rules. Supercharge your AI coding with expert guidelines for React, Python, TypeScript, and everything in between.**
 
 A comprehensive collection of skills for [Claude Code](https://claude.ai/code), Anthropic's official CLI for Claude.
 
@@ -73,6 +73,9 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 | `remix` | Remix framework |
 | `astro` | Astro static site generator |
 | `nuxtjs-vue-typescript` | Nuxt.js with Vue and TypeScript |
+| `tanstack-start` | TanStack Start server functions, SSR/streaming, and API routes |
+| `tanstack-router` | Type-safe file-based routing with TanStack Router |
+| `react-router-v7` | React Router v7 framework-mode route modules, loaders, and actions |
 
 ### Mobile Development
 | Skill | Description |
@@ -85,6 +88,7 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 | `android-development` | Android native development |
 | `kotlin-development` | Kotlin development |
 | `ionic` | Ionic hybrid mobile apps |
+| `harmony-arkts` | HarmonyOS development with ArkTS and ArkUI |
 
 ### Backend & APIs
 | Skill | Description |
@@ -118,6 +122,7 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 | `julia` | Julia scientific computing |
 | `lua` | Lua scripting |
 | `cpp` | C++ development |
+| `fortran` | Modern Fortran scientific and numerical computing |
 
 ### Databases & ORMs
 | Skill | Description |
@@ -132,6 +137,14 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 | `redis-best-practices` | Redis |
 | `elasticsearch-best-practices` | Elasticsearch |
 | `supabase` | Supabase backend |
+
+### Data Engineering
+| Skill | Description |
+|-------|-------------|
+| `pyspark-etl` | Performant, testable PySpark ETL pipelines |
+| `snowflake-data-engineering` | Snowflake SQL, Dynamic Tables, Streams, Tasks, and Snowpipe |
+| `snowflake-cortex-ai` | Snowflake Cortex AI Functions and Cortex Search for in-warehouse RAG |
+| `snowflake-snowpark-dbt` | Snowpark Python and dbt with the dbt-snowflake adapter |
 
 ### DevOps & Infrastructure
 | Skill | Description |
@@ -170,6 +183,9 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 | `machine-learning` | ML best practices |
 | `computer-vision-opencv` | OpenCV computer vision |
 | `nlp-natural-language-processing` | NLP development |
+| `tensorflow-deep-learning` | TensorFlow and Keras model building, training, and deployment |
+| `automl-hyperparameter-optimization` | AutoML and hyperparameter search with Optuna, Ray Tune, and PyCaret |
+| `google-adk` | Building AI agents with Google's Agent Development Kit |
 
 ### Styling & UI
 | Skill | Description |
@@ -220,6 +236,7 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 | `react-query` | React Query |
 | `tanstack-query` | TanStack Query |
 | `swr` | SWR data fetching |
+| `vue-pinia` | Vue 3 state management with Pinia setup stores |
 
 ### CMS & E-commerce
 | Skill | Description |
@@ -230,11 +247,27 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 | `drupal-development` | Drupal |
 | `sanity` | Sanity CMS |
 | `ghost` | Ghost CMS |
+| `medusa-development` | Medusa v2 commerce modules, workflows, and API routes |
+
+### Specialized Platforms
+| Skill | Description |
+|-------|-------------|
+| `embedded-stm32` | Embedded C/C++ on STM32 microcontrollers with the HAL |
+| `ros2-robotics` | ROS 2 robotics nodes, topics, services, and actions |
+| `blender-python-addon` | Blender add-on development with the bpy API |
+| `gamemaker-gml` | GameMaker Language (GML) game development |
 
 ### Utilities & Best Practices
 | Skill | Description |
 |-------|-------------|
 | `git-workflow` | Git best practices |
+| `gitflow` | Gitflow branching, versioning, and release workflow |
+| `pr-review` | Focused, severity-ranked pull request review |
+| `clean-code` | Clean-code principles with anti-over-engineering discipline |
+| `readme-best-practices` | Structure and tone guidance for effective READMEs |
+| `network-troubleshooting` | Safety-first, read-only network failure diagnosis |
+| `security-devsecops` | Secure SDLC, AppSec, and DevSecOps pipeline practices |
+| `rtl-internationalization` | Right-to-left layout and bidirectional text support |
 | `security-best-practices` | Security guidelines |
 | `performance-optimization` | Performance tuning |
 | `accessibility-a11y` | Accessibility |
@@ -245,7 +278,7 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 | `internationalization-i18n` | i18n |
 | `localization-l10n` | l10n |
 
-### Complete List (240 Skills)
+### Complete List (265 Skills)
 
 <details>
 <summary>Click to expand full list</summary>
@@ -264,6 +297,7 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - astro
 - auth0-authentication
 - autogen-development
+- automl-hyperparameter-optimization
 - aws-development
 - azure
 - backend-development
@@ -271,6 +305,7 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - beautifulsoup-parsing
 - bitbucket-workflow
 - blazor
+- blender-python-addon
 - blockchain
 - bootstrap
 - business-central-development
@@ -279,6 +314,7 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - chrome-extension-development
 - ci-cd-best-practices
 - clean-architecture
+- clean-code
 - clerk-authentication
 - cloudflare-development
 - computer-vision-opencv
@@ -304,6 +340,7 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - elasticsearch-best-practices
 - electron-development
 - elixir
+- embedded-stm32
 - esbuild-bundler
 - ethereum
 - expo-react-native-javascript-best-practices
@@ -316,24 +353,29 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - firebase-development
 - flask-python
 - flutter
+- fortran
 - fpga
 - framer-motion
 - front-end-developer
 - game-development
+- gamemaker-gml
 - gcp-development
 - general-best-practices
 - ghost
 - git-workflow
+- gitflow
 - github-workflow
 - gitlab-workflow
 - go
 - go-api-development
 - go-backend-microservices
+- google-adk
 - graalvm
 - graphql
 - graphql-development
 - grpc-development
 - gsap
+- harmony-arkts
 - hono-typescript
 - html
 - htmx
@@ -364,6 +406,7 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - lua
 - machine-learning
 - matplotlib-best-practices
+- medusa-development
 - meta-prompt
 - micronaut
 - microservices
@@ -377,6 +420,7 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - mysql-best-practices
 - nestjs-clean-typescript
 - netlify-development
+- network-troubleshooting
 - nextauth-authentication
 - nextjs-react-redux-typescript-cursor-rules
 - nextjs-react-typescript
@@ -403,10 +447,12 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - pnpm
 - postcss-best-practices
 - postgresql-best-practices
+- pr-review
 - prisma
 - prisma-development
 - puppeteer-automation
 - pwa-development
+- pyspark-etl
 - python
 - python-cybersecurity-tool-development
 - python-odoo-cursor-rules
@@ -419,6 +465,8 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - react-native-cursor-rules
 - react-native-r3f
 - react-query
+- react-router-v7
+- readme-best-practices
 - redis-best-practices
 - redux-toolkit
 - remix
@@ -426,7 +474,9 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - rest-api-django
 - robocorp-cursor-rules
 - rollup-bundler
+- ros2-robotics
 - rspec
+- rtl-internationalization
 - ruby
 - ruby-rails
 - rust
@@ -439,12 +489,16 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - scrapy-web-scraping
 - scss-best-practices
 - security-best-practices
+- security-devsecops
 - selenium-automation
 - seo-best-practices
 - sequelize
 - serverless
 - shopify
 - shopify-theme-development-guidelines
+- snowflake-cortex-ai
+- snowflake-data-engineering
+- snowflake-snowpark-dbt
 - solana
 - solidity
 - spring-boot
@@ -463,8 +517,11 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - systemverilog
 - tailwindcss
 - tanstack-query
+- tanstack-router
+- tanstack-start
 - tauri-development
 - technical-writing
+- tensorflow-deep-learning
 - terraform
 - testing
 - three-js
@@ -480,6 +537,7 @@ git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
 - vercel-development
 - viewcomfy-api-rules
 - vite
+- vue-pinia
 - vue-typescript
 - vuejs-typescript-best-practices
 - web-development
@@ -512,5 +570,5 @@ MIT License - Feel free to use, modify, and distribute these skills.
 
 ## Credits
 
-- Original Cursor rules from the open-source community
+- Original Cursor rules from the open-source community, including [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
 - Converted and curated for Claude Code compatibility

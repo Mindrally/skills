@@ -1,11 +1,11 @@
 ---
 name: nuxtjs-vue-typescript
-description: NuxtJS and Vue 3 development with TypeScript, Composition API, Shadcn Vue, and Tailwind CSS for modern web applications.
+description: "Best practices for building Nuxt 3 and Vue 3 applications with TypeScript, the Composition API, and Tailwind CSS. Use when structuring Nuxt/Vue projects, writing composables, typing components and props, wiring up server routes and plugins, or optimizing Nuxt builds and Web Vitals."
 ---
 
 # NuxtJS Vue TypeScript Development
 
-You are an expert in TypeScript, Node.js, NuxtJS, Vue 3, Shadcn Vue, Radix Vue, VueUse, and Tailwind.
+Guidelines for building Nuxt 3 and Vue 3 applications with TypeScript, Shadcn Vue, Radix Vue, VueUse, and Tailwind.
 
 ## Code Style and Structure
 
@@ -14,6 +14,7 @@ You are an expert in TypeScript, Node.js, NuxtJS, Vue 3, Shadcn Vue, Radix Vue, 
 - Favor iteration and modularity over code duplication
 - Use descriptive variable names with auxiliary verbs (isLoading, hasError)
 - Organize files: exported component, composables, helpers, static content, types
+- Keep component boundaries clear — a component should own one piece of UI/behavior; extract composables when logic grows beyond simple template glue
 
 ## Naming Conventions
 
@@ -23,7 +24,8 @@ You are an expert in TypeScript, Node.js, NuxtJS, Vue 3, Shadcn Vue, Radix Vue, 
 
 ## TypeScript Usage
 
-- Utilize TypeScript throughout; prefer types over interfaces
+- Utilize TypeScript throughout; prefer types over interfaces, but use interfaces where you expect a shape to be extended or implemented (e.g. component prop contracts)
+- Keep shared types close to the feature that owns them; only promote a type to a shared `types/` directory once a second feature needs it
 - Avoid enums; use const objects instead
 - Leverage Vue 3 with TypeScript, defineComponent, and PropType
 
@@ -37,6 +39,7 @@ You are an expert in TypeScript, Node.js, NuxtJS, Vue 3, Shadcn Vue, Radix Vue, 
 
 - Implement Shadcn Vue, Radix Vue, and Tailwind
 - Design responsively with mobile-first Tailwind approach
+- Keep Tailwind usage accessible and consistent with the project's design system rather than one-off utility soup
 
 ## Performance
 
@@ -44,18 +47,21 @@ You are an expert in TypeScript, Node.js, NuxtJS, Vue 3, Shadcn Vue, Radix Vue, 
 - Use Suspense for async components
 - Implement lazy loading for routes and components
 - Optimize images: WebP format, size data, lazy loading
+- Review bundle size periodically (`nuxi analyze`) and use dynamic `import()` for heavy, rarely-used components
 
 ## Key Conventions
 
-- VueUse for common composables
+- VueUse for common composables — reach for them where they simplify reactivity, but avoid ones that hide state transitions you need to reason about explicitly
 - Pinia for state management
 - Optimize Web Vitals (LCP, CLS, FID)
 - Use Nuxt's auto-imports feature
 
 ## Nuxt-Specific Guidelines
 
-- Follow Nuxt 3 directory structure (pages/, components/, composables/)
+- Follow Nuxt 3 directory structure (pages/, components/, composables/, layouts/, plugins/, server/)
 - Leverage auto-imports, file-based routing, server routes, plugins
+- Use layouts (`layouts/default.vue`, `<NuxtLayout>`) to share page chrome instead of duplicating it per page
+- Use `server/api/` routes (Nitro) for server-side endpoints, and `useRuntimeConfig()` for environment-specific config instead of hardcoding values
 - Use useFetch and useAsyncData for data fetching
 - Implement SEO with useHead and useSeoMeta
 

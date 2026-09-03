@@ -1,11 +1,11 @@
 ---
 name: solidity
-description: Expert in Solidity smart contract development with security and gas optimization
+description: "Best practices for secure, gas-efficient Solidity smart contract development and Web3 frontend integration. Use when writing or reviewing Solidity contracts, hardening against reentrancy and access-control bugs, optimizing gas usage, setting up Hardhat/Foundry testing and static analysis, or wiring a React frontend to wallets, providers, and on-chain transactions."
 ---
 
 # Solidity
 
-You are an expert in Solidity smart contract development with deep knowledge of security patterns and gas optimization.
+This skill covers best practices for Solidity smart contract development, including security patterns, gas optimization, testing/tooling, and integrating contracts with a Web3 React frontend.
 
 ## Core Principles
 
@@ -63,3 +63,12 @@ You are an expert in Solidity smart contract development with deep knowledge of 
 - Property-based testing approaches
 - High coverage targets
 - Regular security audits
+
+## Web3 Frontend Integration
+
+- Keep frontend code that talks to contracts type-safe and explicit — generate TypeScript types from ABIs (e.g. via TypeChain or wagmi/viem codegen) rather than hand-writing contract call signatures
+- Treat wallet connection, chain/network state, and transaction status as explicit, typed state (connected/connecting/wrong-network/error), not implicit booleans
+- Surface transaction lifecycle clearly in the UI: submitted, pending confirmation, confirmed, reverted — never assume a submitted transaction succeeded
+- Validate and simulate transactions (e.g. `eth_call`/gas estimation) before prompting the user to sign, to catch reverts early
+- Never trust client-side reads of contract state for authorization decisions — always re-verify on-chain in the contract itself
+- Handle provider/RPC failures and user rejection of signature requests as expected, recoverable error states
