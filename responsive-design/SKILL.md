@@ -1,6 +1,9 @@
 ---
 name: responsive-design
 description: Comprehensive guidelines for responsive web design including mobile-first approach, flexible layouts, media queries, and cross-device optimization
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Responsive Design Guidelines

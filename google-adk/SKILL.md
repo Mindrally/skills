@@ -1,6 +1,9 @@
 ---
 name: google-adk
 description: "Best practices for building AI agents with Google's Agent Development Kit (ADK) in Python, covering agent design, tools, sessions, memory, artifacts, evaluation, and deployment. Use when building LLM agents or multi-agent systems with ADK, defining ADK tools, wiring up sessions/state/memory, working with ADK artifacts, writing agent evals, or deploying ADK agents to Vertex AI Agent Engine or Cloud Run."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Google Agent Development Kit (ADK)

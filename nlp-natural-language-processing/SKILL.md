@@ -1,6 +1,9 @@
 ---
 name: nlp-natural-language-processing
 description: Expert guidance for natural language processing development using transformers, spaCy, NLTK, and modern NLP techniques.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Natural Language Processing (NLP) Development

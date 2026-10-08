@@ -1,6 +1,9 @@
 ---
 name: harmony-arkts
 description: "Best practices for HarmonyOS application development with ArkTS and ArkUI, covering components, state management, resources, layout, lifecycle, and accessibility. Use when writing .ets component files, using ArkUI decorators like @Component/@State/@Prop/@Link, building layouts with Column/Row/Stack/List, managing HarmonyOS app resources with $r(), or handling component lifecycle and accessibility on HarmonyOS."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # HarmonyOS ArkTS Development

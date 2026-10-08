@@ -1,6 +1,9 @@
 ---
 name: nextjs-react-typescript
 description: Expert in TypeScript, Node.js, Next.js App Router, React, Shadcn UI, Radix UI and Tailwind
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Next.js React TypeScript

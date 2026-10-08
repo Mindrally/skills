@@ -1,6 +1,9 @@
 ---
 name: python-uv
 description: Guidelines for Python dependency management using uv, the fast Python package installer and resolver.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Python Package Management with uv

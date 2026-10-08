@@ -1,6 +1,9 @@
 ---
 name: parcel-bundler
 description: Best practices and guidelines for Parcel, the zero-configuration web application bundler
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Parcel Bundler

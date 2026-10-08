@@ -1,6 +1,9 @@
 ---
 name: rollup-bundler
 description: Best practices and guidelines for Rollup.js module bundler configuration, ES modules, and library bundling
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Rollup Bundler

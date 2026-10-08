@@ -1,6 +1,9 @@
 ---
 name: web-scraping
 description: Expert in web scraping and data extraction with Python tools
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Web Scraping

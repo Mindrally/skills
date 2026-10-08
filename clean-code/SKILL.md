@@ -1,6 +1,9 @@
 ---
 name: clean-code
 description: "Clean, maintainable, human-readable code principles combined with anti-over-engineering discipline: naming, single responsibility, DRY, and scoping changes to exactly what was requested. Use when writing new code, refactoring existing code, reviewing code for quality, or deciding how much abstraction a change actually needs."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Clean Code

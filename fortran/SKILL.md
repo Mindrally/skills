@@ -1,6 +1,9 @@
 ---
 name: fortran
 description: "Best practices for modern Fortran (2003/2008+) scientific and numerical computing, covering modules, explicit interfaces, kind parameters, memory safety, and testing. Use when writing or reviewing Fortran source (.f90/.f95/.f03/.f08), defining modules and derived types, choosing numeric kind parameters, working with allocatable arrays, setting up a Fortran build with CMake or fpm, or writing unit tests for numerical code."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Modern Fortran Development

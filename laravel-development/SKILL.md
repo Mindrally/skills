@@ -1,6 +1,9 @@
 ---
 name: laravel-development
 description: Expert guidance for Laravel PHP development following best practices, SOLID principles, and Laravel conventions
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Laravel Development

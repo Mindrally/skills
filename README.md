@@ -2,7 +2,17 @@
 
 **265+ Claude Code skills converted from Cursor rules. Supercharge your AI coding with expert guidelines for React, Python, TypeScript, and everything in between.**
 
-A comprehensive collection of skills for [Claude Code](https://claude.ai/code), Anthropic's official CLI for Claude.
+[![GitHub stars](https://img.shields.io/github/stars/Mindrally/skills?style=flat&logo=github)](https://github.com/Mindrally/skills/stargazers)
+[![Skills](https://img.shields.io/badge/skills-265-blue)](#available-skills)
+[![skills.sh](https://skills.sh/b/Mindrally/skills)](https://skills.sh/Mindrally/skills)
+[![License](https://img.shields.io/github/license/Mindrally/skills)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/Mindrally/skills)](https://github.com/Mindrally/skills/commits/main)
+
+```bash
+npx skills add Mindrally/skills --skill react
+```
+
+A comprehensive collection of skills for [Claude Code](https://claude.ai/code), Anthropic's official CLI for Claude. Maintained by [Mindrally](https://mindrally.com).
 
 ## Origin
 
@@ -78,6 +88,44 @@ npx skills ls                  # list installed skills
 npx skills update              # update installed skills to the latest version
 npx skills remove react        # remove a skill
 ```
+
+### Skill bundles
+
+One command for a whole stack:
+
+```bash
+# Next.js full-stack
+npx skills add Mindrally/skills --skill nextjs-react-typescript --skill tailwindcss --skill prisma --skill zod-schema-validation --skill jest
+
+# Python backend
+npx skills add Mindrally/skills --skill python --skill fastapi-python --skill postgresql-best-practices --skill python-testing --skill docker
+
+# Python data science
+npx skills add Mindrally/skills --skill pandas-best-practices --skill numpy-best-practices --skill scikit-learn-best-practices --skill matplotlib-best-practices --skill data-analysis-jupyter
+
+# Go microservices
+npx skills add Mindrally/skills --skill go --skill go-backend-microservices --skill grpc-development --skill kubernetes --skill docker
+
+# React Native
+npx skills add Mindrally/skills --skill expo-react-native-typescript --skill react-query --skill zustand-state-management --skill jest
+
+# Infrastructure
+npx skills add Mindrally/skills --skill terraform --skill kubernetes --skill docker --skill ci-cd-best-practices --skill monitoring-guidelines
+
+# Quality baseline for any project
+npx skills add Mindrally/skills --skill clean-code --skill testing --skill security-best-practices --skill git-workflow --skill readme-best-practices
+```
+
+### Claude Code plugin marketplace
+
+The repo is also a Claude Code plugin marketplace. Inside a Claude Code session:
+
+```
+/plugin marketplace add Mindrally/skills
+/plugin install mindrally-skills@mindrally-skills
+```
+
+This installs the whole library as one plugin and keeps it updated through the plugin system.
 
 ## Available Skills
 
@@ -577,18 +625,17 @@ Once installed, skills are automatically available in Claude Code. You can refer
 
 ## Contributing
 
-Contributions are welcome! To add a new skill:
-
-1. Create a new directory with a descriptive name (kebab-case)
-2. Add a `SKILL.md` file with proper frontmatter
-3. Follow the existing format and style
-4. Submit a pull request
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add or improve a skill, or open a [skill request](https://github.com/Mindrally/skills/issues/new?template=skill_request.yml). Changes are tracked in the [CHANGELOG](CHANGELOG.md).
 
 ## License
 
-MIT License - Feel free to use, modify, and distribute these skills.
+Apache License 2.0. See [LICENSE](LICENSE). Use, modify, and redistribute freely with attribution.
 
 ## Credits
 
 - Original Cursor rules from the open-source community, including [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
 - Converted and curated for Claude Code compatibility
+
+---
+
+Maintained by [Mindrally](https://mindrally.com), a digital product design and build studio in Austin, Texas. If this library saves you time, a star helps other developers find it.

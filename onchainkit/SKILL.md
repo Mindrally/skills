@@ -1,6 +1,9 @@
 ---
 name: onchainkit
 description: Expert guidance for building onchain applications with OnchainKit SDK components and utilities
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # OnchainKit

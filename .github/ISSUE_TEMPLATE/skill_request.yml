@@ -1,0 +1,31 @@
+name: Skill request
+description: Suggest a new skill for the library
+title: "[Skill request]: "
+labels: ["skill-request"]
+body:
+  - type: input
+    id: technology
+    attributes:
+      label: Technology or practice
+      description: What should the skill cover? Include the version if it matters.
+      placeholder: e.g. SvelteKit 2 with Drizzle
+    validations:
+      required: true
+  - type: textarea
+    id: use-cases
+    attributes:
+      label: What would you use it for?
+      description: Describe two or three real tasks where this skill would help.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Good reference material
+      description: Links to official docs, style guides, or existing Cursor rules the skill could draw from.
+  - type: checkboxes
+    id: contribute
+    attributes:
+      label: Contribution
+      options:
+        - label: I'd be willing to write this skill myself with some guidance

@@ -1,6 +1,9 @@
 ---
 name: serverless
 description: Serverless and microservices development guidelines covering FastAPI, cloud-native patterns, API gateways, and best practices for scalable serverless architectures.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Serverless and Microservices Development

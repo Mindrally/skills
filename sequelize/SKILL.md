@@ -1,6 +1,9 @@
 ---
 name: sequelize
 description: Guidelines for developing with Sequelize, a promise-based Node.js ORM supporting PostgreSQL, MySQL, MariaDB, SQLite, and SQL Server
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Sequelize Development Guidelines

@@ -1,6 +1,9 @@
 ---
 name: shopify
 description: Expert Shopify theme development guidelines for Liquid, Online Store 2.0, CSS, JavaScript, and UX best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Shopify Theme Development

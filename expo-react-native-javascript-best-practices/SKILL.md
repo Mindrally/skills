@@ -1,6 +1,9 @@
 ---
 name: expo-react-native-javascript-best-practices
 description: Expo React Native JavaScript best practices for clean code, functional components, performance optimization, and Expo Router navigation.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Expo React Native JavaScript Best Practices

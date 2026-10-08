@@ -1,6 +1,9 @@
 ---
 name: viewcomfy-api-rules
 description: Expert guidance for integrating ViewComfy API into web applications using Python and FastAPI
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # ViewComfy API Rules

@@ -1,6 +1,9 @@
 ---
 name: tailwindcss
 description: Expert in TailwindCSS utility-first styling with responsive design patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # TailwindCSS

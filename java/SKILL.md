@@ -1,6 +1,9 @@
 ---
 name: java
 description: Expert in Java development with Spring Boot and enterprise patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Java

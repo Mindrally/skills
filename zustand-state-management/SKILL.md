@@ -1,6 +1,9 @@
 ---
 name: zustand-state-management
 description: "Best practices for Zustand state management in React and TypeScript applications, covering store design, selectors, middleware, SSR, and testing. Use when creating or refactoring Zustand stores, deciding whether state belongs in Zustand vs component state vs a server-state library, optimizing selector re-renders, adding persist/devtools/immer middleware, or handling Zustand with SSR/React Server Components."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Zustand State Management

@@ -1,6 +1,9 @@
 ---
 name: modern-web-development
 description: Modern web development best practices for TypeScript, Next.js 14, React Server Components, Supabase, GraphQL, and Tailwind CSS.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Modern Web Development

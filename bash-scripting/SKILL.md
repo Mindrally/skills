@@ -1,6 +1,9 @@
 ---
 name: bash-scripting
 description: Bash scripting guidelines covering security, portability, error handling, and automation best practices for DevOps.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Bash Scripting

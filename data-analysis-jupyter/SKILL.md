@@ -1,6 +1,9 @@
 ---
 name: data-analysis-jupyter
 description: Expert guidance for data analysis, visualization, and Jupyter Notebook development with pandas, matplotlib, seaborn, and numpy.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Data Analysis and Jupyter Notebook Development

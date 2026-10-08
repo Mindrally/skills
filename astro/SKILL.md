@@ -1,6 +1,9 @@
 ---
 name: astro
 description: Expert in Astro framework with static generation and partial hydration patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Astro

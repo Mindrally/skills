@@ -1,6 +1,9 @@
 ---
 name: flask-python
 description: Guidelines for Flask Python development with best practices for blueprints, RESTful APIs, and application factories.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Flask Python Development

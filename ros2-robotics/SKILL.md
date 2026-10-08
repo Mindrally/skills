@@ -1,6 +1,9 @@
 ---
 name: ros2-robotics
 description: "Best practices for ROS 2 robotics development, covering package structure, nodes, topics/services/actions, launch files, QoS, tf2 transforms, and testing. Use when creating ROS 2 packages, writing nodes in rclpy or rclcpp, defining custom messages/services/actions, writing launch files, configuring QoS profiles, working with tf2 transforms, or building and testing a colcon workspace."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # ROS 2 Robotics Development

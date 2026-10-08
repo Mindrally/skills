@@ -1,6 +1,9 @@
 ---
 name: automl-hyperparameter-optimization
 description: "Best practices for AutoML and hyperparameter search with Optuna, Ray Tune, and PyCaret, covering search-space design, validation splits, and leakage prevention. Use when tuning model hyperparameters, setting up a pruned or distributed hyperparameter search, designing a nested validation scheme, or evaluating whether an AutoML leaderboard result is production-ready."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # AutoML and Hyperparameter Optimization

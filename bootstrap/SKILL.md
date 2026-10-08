@@ -1,6 +1,9 @@
 ---
 name: bootstrap
 description: Bootstrap development guidelines for responsive layouts, components, and utility-first styling.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Bootstrap Development

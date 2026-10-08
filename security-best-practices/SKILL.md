@@ -1,6 +1,9 @@
 ---
 name: security-best-practices
 description: Security best practices for backend development, microservices, and secure coding patterns with emphasis on input validation and authentication
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Security Best Practices

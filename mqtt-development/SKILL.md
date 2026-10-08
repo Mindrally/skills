@@ -1,6 +1,9 @@
 ---
 name: mqtt-development
 description: Best practices and guidelines for MQTT messaging in IoT and real-time communication systems
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # MQTT Development

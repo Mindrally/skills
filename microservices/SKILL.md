@@ -1,6 +1,9 @@
 ---
 name: microservices
 description: Guidelines for building production-grade microservices with FastAPI/Python and Go, covering serverless patterns, clean architecture, observability, and resilience.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Microservices Development

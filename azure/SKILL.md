@@ -1,6 +1,9 @@
 ---
 name: azure
 description: Azure cloud development guidelines for ARM templates, Azure Pipelines, Kubernetes, and cloud-native services.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Azure Cloud Development

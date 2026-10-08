@@ -1,6 +1,9 @@
 ---
 name: blockchain
 description: Expert guidelines for blockchain development including CosmWasm, Cosmos, and cross-chain patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Blockchain Development

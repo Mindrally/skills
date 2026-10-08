@@ -1,6 +1,9 @@
 ---
 name: graalvm
 description: Expert guidance for GraalVM native image development with Java frameworks, build optimization, and high-performance application deployment
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # GraalVM

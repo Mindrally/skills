@@ -1,6 +1,9 @@
 ---
 name: pytorch
 description: PyTorch deep learning development with transformers, diffusion models, and GPU optimization.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # PyTorch Development

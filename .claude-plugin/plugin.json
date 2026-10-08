@@ -1,0 +1,16 @@
+{
+  "$schema": "https://schema.claude.com/plugin.json",
+  "name": "mindrally-skills",
+  "displayName": "Mindrally Skills Collection",
+  "version": "1.0.0",
+  "description": "265+ Claude Code skills covering every major framework, language, and development practice.",
+  "author": {
+    "name": "Mindrally",
+    "url": "https://mindrally.com"
+  },
+  "homepage": "https://github.com/Mindrally/skills",
+  "repository": "https://github.com/Mindrally/skills",
+  "license": "Apache-2.0",
+  "keywords": ["skills", "react", "python", "typescript", "nextjs", "terraform", "best-practices"],
+  "skills": ["."]
+}

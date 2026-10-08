@@ -1,6 +1,9 @@
 ---
 name: dotnet
 description: Guidelines for .NET backend development with C#, ASP.NET Core, and Entity Framework Core
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # .NET Development Guidelines

@@ -1,6 +1,9 @@
 ---
 name: kubernetes
 description: Expert in Kubernetes and DevOps with infrastructure-as-code and cloud-native patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Kubernetes / DevOps

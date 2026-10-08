@@ -1,6 +1,9 @@
 ---
 name: c-sharp
 description: Guidelines for C# development including Blazor, Unity game development, and .NET backend best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # C# Development Guidelines

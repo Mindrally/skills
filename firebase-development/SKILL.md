@@ -1,6 +1,9 @@
 ---
 name: firebase-development
 description: Firebase development guidelines for Firestore, Authentication, Functions, and Storage with TypeScript and Angular.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Firebase Development

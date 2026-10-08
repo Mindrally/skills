@@ -1,6 +1,9 @@
 ---
 name: prisma
 description: Expert in Prisma ORM with type-safe database operations and schema design
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Prisma

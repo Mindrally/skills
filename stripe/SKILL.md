@@ -1,6 +1,9 @@
 ---
 name: stripe
 description: Stripe payment integration guidelines for TypeScript, React, Next.js with secure payment processing and subscription management
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Stripe Integration

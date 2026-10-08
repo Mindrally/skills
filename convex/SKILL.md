@@ -1,6 +1,9 @@
 ---
 name: convex
 description: Guidelines for developing with Convex backend-as-a-service platform, covering queries, mutations, actions, and real-time data patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Convex Development Guidelines

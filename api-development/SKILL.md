@@ -1,6 +1,9 @@
 ---
 name: api-development
 description: Guidelines for building clean, scalable APIs with Go standard library and NestJS TypeScript, covering security, validation, and modular architecture.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # API Development

@@ -1,6 +1,9 @@
 ---
 name: general-best-practices
 description: General software development best practices covering code quality, testing, security, performance, and maintainability across technology stacks
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # General Best Practices

@@ -1,6 +1,9 @@
 ---
 name: storybook
 description: Best practices for building and documenting component libraries with Storybook
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Storybook Best Practices

@@ -1,6 +1,9 @@
 ---
 name: go-backend-microservices
 description: Go backend development best practices for microservices with clean architecture, observability, and production-ready patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Go Backend Development for Microservices

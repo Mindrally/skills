@@ -1,6 +1,9 @@
 ---
 name: expo-react-native-typescript
 description: Expert in Expo React Native TypeScript mobile development with best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Expo React Native TypeScript

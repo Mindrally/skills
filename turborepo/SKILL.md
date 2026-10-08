@@ -1,6 +1,9 @@
 ---
 name: turborepo
 description: Best practices for Turborepo monorepo build system configuration and optimization
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Turborepo Development

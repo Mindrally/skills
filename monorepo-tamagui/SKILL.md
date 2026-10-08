@@ -1,6 +1,9 @@
 ---
 name: monorepo-tamagui
 description: Monorepo development guidelines using Tamagui, Turbo, Next.js, Expo, Supabase, and cross-platform best practices.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Monorepo using Tamagui

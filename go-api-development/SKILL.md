@@ -1,6 +1,9 @@
 ---
 name: go-api-development
 description: Go API development guidelines using the standard library (1.22+) with best practices for RESTful API design, error handling, and security
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Go API Development with Standard Library

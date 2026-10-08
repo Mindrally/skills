@@ -1,6 +1,9 @@
 ---
 name: llm
 description: Large Language Model development, training, fine-tuning, and deployment best practices.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # LLM Development

@@ -1,6 +1,9 @@
 ---
 name: swiftui-development
 description: "Guidelines for building SwiftUI applications with MVVM/Clean Architecture, Swift 6 strict concurrency, and modern state management. Use when building SwiftUI views, structuring view models, managing state with @State/@Observable, handling async data flow, or optimizing SwiftUI view performance."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # SwiftUI Development

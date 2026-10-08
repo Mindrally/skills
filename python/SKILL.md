@@ -1,6 +1,9 @@
 ---
 name: python
 description: Expert in Python development with best practices across web, data science, and automation
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Python

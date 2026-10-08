@@ -1,6 +1,9 @@
 ---
 name: css
 description: Best practices for CSS development including modern layout techniques, naming conventions, theming, and maintainable stylesheet architecture
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # CSS Development Guidelines

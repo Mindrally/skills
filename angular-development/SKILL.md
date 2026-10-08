@@ -1,6 +1,9 @@
 ---
 name: angular-development
 description: Expert guidance for Angular and TypeScript development focused on scalable, high-performance web applications
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Angular Development

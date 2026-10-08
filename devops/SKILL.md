@@ -1,6 +1,9 @@
 ---
 name: devops
 description: Comprehensive DevOps engineering practices for Kubernetes, CI/CD, Bash scripting, Ansible, and cloud infrastructure.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # DevOps Engineering

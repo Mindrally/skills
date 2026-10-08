@@ -1,6 +1,9 @@
 ---
 name: rspec
 description: RSpec testing best practices for Ruby and Rails applications, covering test organization, data management, and isolation patterns.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # RSpec Testing Best Practices

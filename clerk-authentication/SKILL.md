@@ -1,6 +1,9 @@
 ---
 name: clerk-authentication
 description: Guidelines for implementing Clerk authentication in Next.js applications with middleware, hooks, and security best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Clerk Authentication

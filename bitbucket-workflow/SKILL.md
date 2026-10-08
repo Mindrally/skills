@@ -1,6 +1,9 @@
 ---
 name: bitbucket-workflow
 description: Bitbucket best practices for pull requests, Pipelines CI/CD, Jira integration, and Atlassian ecosystem workflows
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Bitbucket Workflow Best Practices

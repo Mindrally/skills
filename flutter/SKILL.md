@@ -1,6 +1,9 @@
 ---
 name: flutter
 description: Expert in Flutter and Dart development with clean architecture and state management
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Flutter

@@ -1,6 +1,9 @@
 ---
 name: phoenix
 description: Phoenix framework development guidelines covering LiveView, Ecto, real-time features, and best practices for building scalable web applications with Elixir.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Phoenix Framework Development

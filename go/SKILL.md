@@ -1,6 +1,9 @@
 ---
 name: go
 description: Expert in Go/Golang development with focus on APIs, microservices, and clean architecture
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Go (Golang)

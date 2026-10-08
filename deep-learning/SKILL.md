@@ -1,6 +1,9 @@
 ---
 name: deep-learning
 description: Comprehensive deep learning guidelines for neural network development, training, and optimization.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Deep Learning

@@ -1,6 +1,9 @@
 ---
 name: tensorflow-deep-learning
 description: "Best practices for building, training, evaluating, and deploying neural networks with TensorFlow and Keras. Use when writing tf.data input pipelines, defining or training a Keras model, configuring callbacks for checkpointing and early stopping, evaluating a trained model, or exporting a model for serving."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # TensorFlow and Deep Learning

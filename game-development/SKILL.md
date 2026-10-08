@@ -1,6 +1,9 @@
 ---
 name: game-development
 description: Expert guidance for game development with C#/Unity, Lua scripting, and best practices for scalable game architecture
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Game Development

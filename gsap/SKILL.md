@@ -1,6 +1,9 @@
 ---
 name: gsap
 description: Expert guidelines for building high-performance animations with GSAP (GreenSock Animation Platform)
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # GSAP Animation Guidelines

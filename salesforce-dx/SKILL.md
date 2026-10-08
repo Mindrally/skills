@@ -1,6 +1,9 @@
 ---
 name: salesforce-dx
 description: Expert guidance for Salesforce DX development with modern tooling, source-driven development, and CI/CD best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Salesforce DX Development

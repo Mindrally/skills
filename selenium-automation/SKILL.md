@@ -1,6 +1,9 @@
 ---
 name: selenium-automation
 description: Expert guidance for browser automation and web testing using Selenium WebDriver with best practices for element location, waits, and test organization.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Selenium Browser Automation

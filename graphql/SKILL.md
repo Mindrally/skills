@@ -1,6 +1,9 @@
 ---
 name: graphql
 description: Expert in GraphQL API development with type-safe patterns and optimization
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # GraphQL

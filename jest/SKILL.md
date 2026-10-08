@@ -1,6 +1,9 @@
 ---
 name: jest
 description: Jest testing best practices for JavaScript and TypeScript applications, covering test structure, mocking, and assertion patterns.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Jest Testing Best Practices

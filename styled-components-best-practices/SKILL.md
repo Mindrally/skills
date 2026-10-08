@@ -1,6 +1,9 @@
 ---
 name: styled-components-best-practices
 description: styled-components best practices for CSS-in-JS development in React applications
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # styled-components Best Practices

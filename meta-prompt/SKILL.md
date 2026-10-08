@@ -1,6 +1,9 @@
 ---
 name: meta-prompt
 description: Meta-prompting framework for critiquing responses, analyzing solution trajectories, and evaluating AI-generated content quality
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Meta-Prompt

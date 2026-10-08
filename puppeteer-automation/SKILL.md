@@ -1,6 +1,9 @@
 ---
 name: puppeteer-automation
 description: Expert guidance for browser automation using Puppeteer with best practices for web scraping, testing, screenshot capture, and JavaScript execution in headless Chrome.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Puppeteer Browser Automation

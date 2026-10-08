@@ -1,6 +1,9 @@
 ---
 name: network-troubleshooting
 description: "Systematic, safety-first diagnosis of developer network failures such as connection refused, DNS resolution errors, TLS certificate problems, proxy failures, and package registry timeouts. Use when a command fails with a network-shaped error (curl, npm, pip, git, docker), when a service is unreachable, or when the user asks to debug connectivity, DNS, TLS, or proxy issues."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Network Troubleshooting

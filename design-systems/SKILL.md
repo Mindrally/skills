@@ -1,6 +1,9 @@
 ---
 name: design-systems
 description: "Comprehensive design system guidelines for building consistent, accessible, and scalable component libraries. Use when creating design tokens, building component libraries, implementing design systems, setting up theming architecture, or establishing UI governance processes."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Design Systems Best Practices

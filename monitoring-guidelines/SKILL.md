@@ -1,6 +1,9 @@
 ---
 name: monitoring-guidelines
 description: Monitoring guidelines for applications and infrastructure including metrics collection, alerting strategies, and SLO-based monitoring
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Monitoring Guidelines

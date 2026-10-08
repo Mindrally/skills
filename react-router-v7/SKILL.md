@@ -1,6 +1,9 @@
 ---
 name: react-router-v7
 description: "React Router v7 framework mode conventions for route modules, data loaders, actions, and progressive enhancement. Use when building file-based routes with loaders/actions, handling form submissions with Form/useFetcher/useSubmit, adding route ErrorBoundary components, revalidating data after mutations, or migrating Remix-style route modules to React Router v7."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # React Router v7

@@ -1,6 +1,9 @@
 ---
 name: gitflow
 description: "Branching, merging, versioning, and release conventions for the Gitflow workflow, covering main/develop branches, feature/release/hotfix branches, semantic versioning, and pull request rules. Use when creating a branch, naming a branch, planning a release or hotfix, writing a commit message, or setting up branch protection for a repository that follows Gitflow."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Gitflow

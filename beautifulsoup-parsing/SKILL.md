@@ -1,6 +1,9 @@
 ---
 name: beautifulsoup-parsing
 description: Expert guidance for HTML/XML parsing using BeautifulSoup in Python with best practices for DOM navigation, data extraction, and efficient scraping workflows.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # BeautifulSoup HTML Parsing

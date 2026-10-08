@@ -1,6 +1,9 @@
 ---
 name: gcp-development
 description: Google Cloud Platform (GCP) development best practices for Cloud Functions, Cloud Run, Firestore, BigQuery, and Infrastructure as Code.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # GCP Development Best Practices

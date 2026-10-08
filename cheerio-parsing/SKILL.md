@@ -1,6 +1,9 @@
 ---
 name: cheerio-parsing
 description: Expert guidance for HTML/XML parsing using Cheerio in Node.js with best practices for DOM traversal, data extraction, and efficient scraping pipelines.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Cheerio HTML Parsing

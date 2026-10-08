@@ -1,6 +1,9 @@
 ---
 name: python-testing
 description: Expert in Python testing with pytest and test-driven development
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Python Testing

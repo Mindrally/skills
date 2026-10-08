@@ -1,6 +1,9 @@
 ---
 name: autogen-development
 description: Expert guidance for Microsoft AutoGen multi-agent framework development including agent creation, conversations, tool integration, and orchestration patterns.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # AutoGen Multi-Agent Development

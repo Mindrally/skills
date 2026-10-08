@@ -1,6 +1,9 @@
 ---
 name: sanity
 description: Sanity CMS development guidelines for schema creation, GROQ queries, TypeScript integration, and project organization
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Sanity CMS Development

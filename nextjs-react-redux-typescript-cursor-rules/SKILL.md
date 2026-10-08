@@ -1,6 +1,9 @@
 ---
 name: nextjs-react-redux-typescript-cursor-rules
 description: Comprehensive Next.js, React, Redux, and TypeScript development guidelines covering SOLID principles, component architecture, and best practices.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Next.js React Redux TypeScript Cursor Rules

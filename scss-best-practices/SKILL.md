@@ -1,6 +1,9 @@
 ---
 name: scss-best-practices
 description: SCSS/Sassy CSS best practices and coding guidelines for maintainable, scalable stylesheets
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # SCSS Best Practices

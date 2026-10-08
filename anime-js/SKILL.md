@@ -1,6 +1,9 @@
 ---
 name: anime-js
 description: Expert guidelines for building performant animations with Anime.js animation library
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Anime.js Animation Guidelines

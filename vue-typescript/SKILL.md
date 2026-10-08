@@ -1,6 +1,9 @@
 ---
 name: vue-typescript
 description: Expert in Vue.js TypeScript development with Vite, Pinia, and modern UI frameworks
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Vue.js TypeScript

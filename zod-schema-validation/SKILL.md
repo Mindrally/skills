@@ -1,6 +1,9 @@
 ---
 name: zod-schema-validation
 description: Best practices for Zod schema validation and type inference in TypeScript applications.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Zod Schema Validation

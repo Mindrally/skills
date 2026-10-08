@@ -1,6 +1,9 @@
 ---
 name: python-cybersecurity-tool-development
 description: Guidelines for building Python cybersecurity tools with secure coding practices, async scanning, and structured security testing.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Python Cybersecurity Tool Development

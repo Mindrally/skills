@@ -1,6 +1,9 @@
 ---
 name: seo-best-practices
 description: Apply SEO best practices for web applications including metadata, performance optimization, and search engine optimization techniques.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # SEO Best Practices

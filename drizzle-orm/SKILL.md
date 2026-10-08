@@ -1,6 +1,9 @@
 ---
 name: drizzle-orm
 description: Guidelines for developing with Drizzle ORM, a lightweight type-safe TypeScript ORM with SQL-like syntax
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Drizzle ORM Development Guidelines

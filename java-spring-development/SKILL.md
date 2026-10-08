@@ -1,6 +1,9 @@
 ---
 name: java-spring-development
 description: Java Spring Boot development guidelines with best practices for building robust, secure, and maintainable enterprise applications
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Java Spring Development Best Practices

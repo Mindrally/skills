@@ -1,6 +1,9 @@
 ---
 name: optimized-nextjs-typescript
 description: Optimized Next.js TypeScript best practices with modern UI/UX, focusing on performance, security, and clean architecture
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Optimized Next.js TypeScript Best Practices

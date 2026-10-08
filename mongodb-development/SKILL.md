@@ -1,6 +1,9 @@
 ---
 name: mongodb-development
 description: MongoDB development guidelines with Payload CMS, Mongoose, aggregation pipelines, and TypeScript best practices.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # MongoDB Development

@@ -1,6 +1,9 @@
 ---
 name: spring-framework
 description: Expert guidance for Spring Framework and Spring Boot development with Java best practices, dependency injection, and RESTful API design
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Spring Framework

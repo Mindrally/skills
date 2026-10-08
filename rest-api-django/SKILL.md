@@ -1,6 +1,9 @@
 ---
 name: rest-api-django
 description: Comprehensive guidelines for Django REST API development covering project structure, views, models, serializers, authentication, performance, and error handling.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # REST API Development with Django

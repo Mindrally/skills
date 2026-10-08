@@ -1,6 +1,9 @@
 ---
 name: ghost
 description: Ghost CMS theme development with Handlebars templating, Alpine.js, Tailwind CSS, and performance optimization
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Ghost CMS Theme Development

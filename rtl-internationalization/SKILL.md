@@ -1,6 +1,9 @@
 ---
 name: rtl-internationalization
 description: "Right-to-left (RTL) layout and bidirectional text support for Hebrew, Arabic, Persian, and Urdu interfaces. Use when building UI that must support RTL languages, converting physical CSS/Tailwind properties to logical ones, handling mixed-direction (bidi) text, mirroring directional icons, or testing an app with dir=\"rtl\"."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # RTL (Right-to-Left) Internationalization

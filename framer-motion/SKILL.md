@@ -1,6 +1,9 @@
 ---
 name: framer-motion
 description: Expert guidelines for building performant animations with Framer Motion/Motion library in React applications
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Framer Motion / Motion Animation Guidelines

@@ -1,6 +1,9 @@
 ---
 name: medusa-development
 description: "Best practices for building commerce applications with Medusa v2, the headless e-commerce framework. Use when defining Medusa data models, writing workflows and steps with the Workflow SDK, creating API routes or subscribers, building module services that extend MedusaService, throwing MedusaError, or customizing the Medusa admin dashboard."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Medusa Development

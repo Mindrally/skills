@@ -1,6 +1,9 @@
 ---
 name: nextjs-typescript-tailwindcss-supabase
 description: Full-stack Next.js 14 development with TypeScript, TailwindCSS, and Supabase for building production-ready web applications.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Next.js TypeScript TailwindCSS Supabase

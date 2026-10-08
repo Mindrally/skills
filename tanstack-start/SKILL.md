@@ -1,6 +1,9 @@
 ---
 name: tanstack-start
 description: "Best practices for TanStack Start, the full-stack React framework built on TanStack Router and Vite/Nitro. Use when building server functions with createServerFn, setting up SSR and streaming with defer()/Await, writing API routes, configuring app.config.ts, or deploying a TanStack Start app to Node, Vercel, Netlify, Bun, or Cloudflare."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # TanStack Start

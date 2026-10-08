@@ -1,6 +1,9 @@
 ---
 name: anthropic-claude-development
 description: Expert guidance for Anthropic Claude API development including Messages API, tool use, prompt engineering, and building production applications with Claude models.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Anthropic Claude API Development

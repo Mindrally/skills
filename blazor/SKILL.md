@@ -1,6 +1,9 @@
 ---
 name: blazor
 description: Guidelines for Blazor development including component lifecycle, state management, and performance optimization
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Blazor Development Guidelines

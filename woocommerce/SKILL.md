@@ -1,6 +1,9 @@
 ---
 name: woocommerce
 description: WordPress and WooCommerce development guidelines with PHP best practices, security standards, and extensibility patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # WooCommerce Development

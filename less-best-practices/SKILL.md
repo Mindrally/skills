@@ -1,6 +1,9 @@
 ---
 name: less-best-practices
 description: Less CSS best practices and coding guidelines for maintainable, modular stylesheets
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Less CSS Best Practices

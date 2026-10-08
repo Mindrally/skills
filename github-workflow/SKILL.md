@@ -1,6 +1,9 @@
 ---
 name: github-workflow
 description: GitHub best practices for pull requests, code reviews, issues, Actions workflows, and repository management
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # GitHub Workflow Best Practices

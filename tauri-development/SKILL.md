@@ -1,6 +1,9 @@
 ---
 name: tauri-development
 description: Tauri development guidelines for building cross-platform desktop applications with TypeScript, Rust, and modern web technologies
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Tauri Development Guidelines

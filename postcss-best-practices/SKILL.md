@@ -1,6 +1,9 @@
 ---
 name: postcss-best-practices
 description: PostCSS best practices and configuration guidelines for modern CSS processing and optimization
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # PostCSS Best Practices

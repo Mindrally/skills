@@ -1,6 +1,9 @@
 ---
 name: kotlin-development
 description: Kotlin development guidelines with best practices for clean code, naming conventions, function design, and data handling
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Kotlin Development Best Practices

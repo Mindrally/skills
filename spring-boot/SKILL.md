@@ -1,6 +1,9 @@
 ---
 name: spring-boot
 description: Expert guidance for Spring Boot application development with best practices for RESTful APIs, testing, security, and deployment
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Spring Boot

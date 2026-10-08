@@ -1,6 +1,9 @@
 ---
 name: julia
 description: Julia development guidelines covering multiple dispatch, type system, performance optimization, and scientific computing best practices.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Julia Development

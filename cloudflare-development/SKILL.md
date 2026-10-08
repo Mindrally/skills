@@ -1,6 +1,9 @@
 ---
 name: cloudflare-development
 description: Cloudflare Workers, Pages, KV, D1, R2, and Durable Objects development best practices for edge computing applications.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Cloudflare Development Best Practices

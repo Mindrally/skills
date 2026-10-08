@@ -1,6 +1,9 @@
 ---
 name: playwright-cursor-rules
 description: Expert guidance for Playwright end-to-end testing with TypeScript and JavaScript best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Playwright Cursor Rules

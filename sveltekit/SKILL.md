@@ -1,6 +1,9 @@
 ---
 name: sveltekit
 description: Expert guidance for SvelteKit development with TypeScript, Tailwind CSS, SSR/SSG, and performance optimization best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # SvelteKit Development

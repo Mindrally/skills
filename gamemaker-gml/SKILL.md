@@ -1,6 +1,9 @@
 ---
 name: gamemaker-gml
 description: "Best practices for GameMaker Language (GML) development, covering scripts, object events, rooms, data structures, and performance-minded game code. Use when writing GML scripts or object event code in GameMaker Studio, structuring create/step/draw events, managing rooms and instances, building state machines for gameplay, or optimizing GML for performance."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # GameMaker Language (GML) Development

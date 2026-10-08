@@ -1,6 +1,9 @@
 ---
 name: wordpress
 description: Expert in WordPress and WooCommerce development with PHP best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # WordPress

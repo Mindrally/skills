@@ -1,6 +1,9 @@
 ---
 name: ci-cd-best-practices
 description: CI/CD best practices for building automated pipelines, deployment strategies, testing, and DevOps workflows across platforms
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # CI/CD Best Practices

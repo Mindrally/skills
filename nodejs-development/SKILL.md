@@ -1,6 +1,9 @@
 ---
 name: nodejs-development
 description: Node.js development guidelines covering Payload CMS, Vue.js with TypeScript, and general TypeScript best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Node.js Development Guidelines

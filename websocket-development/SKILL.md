@@ -1,6 +1,9 @@
 ---
 name: websocket-development
 description: Best practices and guidelines for building real-time applications with WebSocket communication
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # WebSocket Development

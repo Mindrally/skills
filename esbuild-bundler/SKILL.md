@@ -1,6 +1,9 @@
 ---
 name: esbuild-bundler
 description: Best practices and guidelines for esbuild, the ultra-fast JavaScript and TypeScript bundler and minifier
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # esbuild Bundler

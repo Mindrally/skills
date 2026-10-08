@@ -1,6 +1,9 @@
 ---
 name: graphql-development
 description: GraphQL development guidelines with type-safe clients, schema design, and integration with React and Next.js.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # GraphQL Development

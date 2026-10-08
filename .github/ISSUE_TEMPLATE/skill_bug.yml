@@ -1,0 +1,24 @@
+name: Skill problem
+description: Report an outdated, incorrect, or unhelpful skill
+title: "[Skill]: "
+labels: ["bug"]
+body:
+  - type: input
+    id: skill
+    attributes:
+      label: Skill name
+      placeholder: e.g. nextjs-react-typescript
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Outdated API, incorrect advice, missing a common case, too vague, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should it say instead?
+      description: A link to docs or a corrected snippet is ideal.

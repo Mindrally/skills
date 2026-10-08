@@ -1,6 +1,9 @@
 ---
 name: swr
 description: Guidelines for using SWR (stale-while-revalidate) React Hooks for efficient data fetching, caching, and revalidation
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # SWR Best Practices

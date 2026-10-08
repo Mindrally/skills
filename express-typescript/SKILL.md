@@ -1,6 +1,9 @@
 ---
 name: express-typescript
 description: Guidelines for building robust APIs with Express.js and TypeScript, covering middleware patterns, routing, and security best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Express TypeScript Development

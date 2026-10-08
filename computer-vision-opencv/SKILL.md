@@ -1,6 +1,9 @@
 ---
 name: computer-vision-opencv
 description: Expert guidance for computer vision development using OpenCV, PyTorch, and modern deep learning techniques for image and video processing.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Computer Vision and OpenCV Development

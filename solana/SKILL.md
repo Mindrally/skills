@@ -1,6 +1,9 @@
 ---
 name: solana
 description: Expert guidelines for Solana program development with Rust, Anchor framework, and Web3.js integration
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Solana Development

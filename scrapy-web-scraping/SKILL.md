@@ -1,6 +1,9 @@
 ---
 name: scrapy-web-scraping
 description: Expert guidance for building web scrapers and crawlers using the Scrapy Python framework with best practices for spider development, data extraction, and pipeline management.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Scrapy Web Scraping

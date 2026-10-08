@@ -1,6 +1,9 @@
 ---
 name: alpine-js
 description: Alpine.js development guidelines for lightweight reactive interactions with Tailwind CSS and various backend frameworks.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Alpine.js Development

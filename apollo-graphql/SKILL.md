@@ -1,6 +1,9 @@
 ---
 name: apollo-graphql
 description: Guidelines for developing GraphQL APIs and React applications using Apollo Client for state management, data fetching, and caching
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Apollo GraphQL Best Practices

@@ -1,6 +1,9 @@
 ---
 name: pixi-js
 description: Expert guidance for Pixi.js game development with TypeScript, focusing on high-performance web and mobile games
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Pixi.js Game Development

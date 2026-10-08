@@ -1,6 +1,9 @@
 ---
 name: react
 description: Expert in React development with modern patterns, hooks, and performance optimization
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # React

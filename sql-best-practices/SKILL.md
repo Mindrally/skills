@@ -1,6 +1,9 @@
 ---
 name: sql-best-practices
 description: SQL development best practices for writing efficient, secure, and maintainable database queries
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # SQL Best Practices

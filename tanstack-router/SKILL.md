@@ -1,6 +1,9 @@
 ---
 name: tanstack-router
 description: "Type-safe, file-based routing for React with TanStack Router. Use when defining routes with createFileRoute, validating search params with Zod, writing route loaders, setting up auth guards with beforeLoad, integrating TanStack Query into loaders, or configuring router context and preloading."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # TanStack Router

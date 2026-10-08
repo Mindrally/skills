@@ -1,6 +1,9 @@
 ---
 name: analytics-data-analysis
 description: "Best practices for analytics, data analysis, and visualization using Python, pandas, matplotlib, seaborn, and Jupyter notebooks. Use when performing exploratory data analysis, building data pipelines, creating statistical visualizations, writing Jupyter notebooks, cleaning and transforming datasets, or implementing analytics dashboards."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Analytics and Data Analysis

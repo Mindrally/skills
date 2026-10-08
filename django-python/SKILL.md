@@ -1,6 +1,9 @@
 ---
 name: django-python
 description: Expert in Django Python web development with best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Django Python

@@ -1,6 +1,9 @@
 ---
 name: technical-writing
 description: Expert technical writing guidelines for creating clear, in-depth developer tutorials and documentation with practical, implementable knowledge
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Technical Writing

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schema.claude.com/marketplace.json",
+  "name": "mindrally-skills",
+  "version": "1.0.0",
+  "description": "265+ Claude Code skills covering every major framework, language, and development practice.",
+  "owner": {
+    "name": "Mindrally",
+    "url": "https://mindrally.com"
+  },
+  "plugins": [
+    {
+      "name": "mindrally-skills",
+      "displayName": "Mindrally Skills Collection",
+      "source": "./",
+      "description": "The full Mindrally skills library: React, Next.js, Python, TypeScript, Go, Rust, Terraform, Kubernetes, and 250+ more.",
+      "version": "1.0.0",
+      "category": "development",
+      "tags": ["skills", "frameworks", "languages", "best-practices", "cursor-rules"]
+    }
+  ]
+}

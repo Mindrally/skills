@@ -1,6 +1,9 @@
 ---
 name: trpc
 description: Guidelines for writing Next.js apps with tRPC v11 for end-to-end typesafe APIs
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # tRPC Best Practices

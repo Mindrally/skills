@@ -1,6 +1,9 @@
 ---
 name: salesforce-development
 description: Expert guidance for Salesforce development including Apex, Lightning Web Components, and metadata best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Salesforce Development

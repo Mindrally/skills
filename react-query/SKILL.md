@@ -1,6 +1,9 @@
 ---
 name: react-query
 description: Guidelines for using React Query for data fetching, caching, and server state synchronization in React applications
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # React Query Best Practices

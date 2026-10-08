@@ -1,6 +1,9 @@
 ---
 name: remix
 description: Expert guidance for Remix development with TypeScript, loaders/actions, nested routes, and full-stack web application best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Remix Development

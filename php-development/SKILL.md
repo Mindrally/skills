@@ -1,6 +1,9 @@
 ---
 name: php-development
 description: Expert guidance for PHP 8+ development with SOLID principles, PSR standards, and modern best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # PHP Development

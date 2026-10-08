@@ -1,6 +1,9 @@
 ---
 name: openai-api-development
 description: Expert guidance for OpenAI API development including GPT models, Assistants API, function calling, embeddings, and best practices for production applications.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # OpenAI API Development

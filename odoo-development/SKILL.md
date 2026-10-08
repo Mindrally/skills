@@ -1,6 +1,9 @@
 ---
 name: odoo-development
 description: Expert guidance for Odoo ERP development including Python ORM, XML views, and module architecture
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Odoo Development

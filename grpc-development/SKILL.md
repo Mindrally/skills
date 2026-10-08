@@ -1,6 +1,9 @@
 ---
 name: grpc-development
 description: "Best practices for building high-performance services with gRPC and Protocol Buffers. Use when designing RPC services, defining protobuf schemas, implementing streaming APIs, setting up gRPC interceptors, or building cross-language service communication."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # gRPC Development

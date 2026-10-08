@@ -1,6 +1,9 @@
 ---
 name: terraform
 description: Expert in Terraform infrastructure-as-code with cloud deployment patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Terraform

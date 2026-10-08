@@ -1,6 +1,9 @@
 ---
 name: data-jupyter-python
 description: Guidelines for data analysis and Jupyter Notebook development with pandas, matplotlib, seaborn, and numpy.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Data Analysis and Jupyter Python Development

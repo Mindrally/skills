@@ -1,6 +1,9 @@
 ---
 name: typeorm
 description: Guidelines for developing with TypeORM, a full-featured ORM for TypeScript and JavaScript supporting multiple databases
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # TypeORM Development Guidelines

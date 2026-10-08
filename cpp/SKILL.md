@@ -1,6 +1,9 @@
 ---
 name: cpp
 description: Guidelines for modern C++ development with C++17/20 standards, memory safety, and performance optimization
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # C++ Development Guidelines

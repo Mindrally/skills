@@ -1,6 +1,9 @@
 ---
 name: tanstack-query
 description: "Best practices for TanStack Query v5 (React Query) server state management, including query key factories, the queryOptions helper, mutations, optimistic updates, infinite queries, and Suspense mode. Use when fetching or caching server data in React, writing custom query/mutation hooks, setting up a QueryClient, implementing optimistic updates, or migrating v4 patterns to v5."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # TanStack Query Best Practices

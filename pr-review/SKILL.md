@@ -1,6 +1,9 @@
 ---
 name: pr-review
 description: "Focused pull request review practices with severity-ranked, file-and-line-cited findings across four angles: security, performance, tests, and architecture. Use when asked to review a pull request, review a diff or set of changes, review \"this PR,\" or provide a code review before merge."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # PR Review

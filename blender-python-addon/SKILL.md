@@ -1,6 +1,9 @@
 ---
 name: blender-python-addon
 description: "Best practices for writing Blender Python add-ons using the bpy API, covering operators, panels, properties, registration, and API-safe scripting. Use when creating a Blender add-on, defining bpy.types.Operator or Panel classes, registering PropertyGroup settings, writing register()/unregister() functions, working with bmesh, or debugging add-ons in Blender's Python console."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Blender Python Add-on Development

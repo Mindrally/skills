@@ -1,6 +1,9 @@
 ---
 name: snowflake-cortex-ai
 description: "Reference for Snowflake Cortex AI Functions (AI_COMPLETE, AI_CLASSIFY, AI_EXTRACT, AI_FILTER, etc.) and Cortex Search for building RAG applications entirely inside Snowflake. Use when writing SQL that calls an LLM, classifying or extracting structured data from text, building a natural-language WHERE filter, or setting up hybrid vector+keyword search for retrieval-augmented generation."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Snowflake Cortex AI

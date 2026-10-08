@@ -1,6 +1,9 @@
 ---
 name: deno-typescript
 description: Guidelines for developing with Deno and TypeScript using modern runtime features, security model, and native tooling
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Deno TypeScript Development

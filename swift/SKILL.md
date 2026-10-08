@@ -1,6 +1,9 @@
 ---
 name: swift
 description: Expert in Swift and SwiftUI development for iOS, macOS, and Apple platforms
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Swift / SwiftUI

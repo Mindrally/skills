@@ -1,6 +1,9 @@
 ---
 name: micronaut
 description: Expert guidance for Micronaut framework development with compile-time dependency injection, GraalVM native builds, and cloud-native microservices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Micronaut

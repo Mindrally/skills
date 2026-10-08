@@ -1,6 +1,9 @@
 ---
 name: elasticsearch-best-practices
 description: Elasticsearch development best practices for indexing, querying, and search optimization
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Elasticsearch Best Practices

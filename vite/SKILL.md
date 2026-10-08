@@ -1,6 +1,9 @@
 ---
 name: vite
 description: Expert guidance for Vite development with modern build tooling, HMR, framework integrations, and performance optimization
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Vite Development

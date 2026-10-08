@@ -1,6 +1,9 @@
 ---
 name: figma-integration
 description: Guidelines for integrating Figma designs with development workflows using MCP servers and best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Figma Integration Guidelines

@@ -1,6 +1,9 @@
 ---
 name: jwt-security
 description: Guidelines for implementing JWT authentication with security best practices for token creation, validation, and storage
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # JWT Security

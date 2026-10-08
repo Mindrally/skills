@@ -1,6 +1,9 @@
 ---
 name: laravel
 description: Expert in Laravel PHP development with best practices and modern patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Laravel

@@ -1,6 +1,9 @@
 ---
 name: backend-development
 description: Guidelines for backend development in C++ and Elixir/Phoenix, covering modern language features, best practices, and production-ready patterns.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Backend Development

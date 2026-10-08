@@ -1,6 +1,9 @@
 ---
 name: turbopack-bundler
 description: Best practices and guidelines for Turbopack, the Rust-powered incremental bundler for Next.js and modern web development
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Turbopack Bundler

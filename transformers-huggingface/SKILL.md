@@ -1,6 +1,9 @@
 ---
 name: transformers-huggingface
 description: Expert guidance for working with Hugging Face Transformers library for NLP, computer vision, and multimodal AI tasks.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Transformers and Hugging Face Development

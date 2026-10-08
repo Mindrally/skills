@@ -1,6 +1,9 @@
 ---
 name: logging-best-practices
 description: Logging best practices for applications and services including structured logging, log levels, and log management strategies
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Logging Best Practices

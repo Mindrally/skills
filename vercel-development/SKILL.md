@@ -1,6 +1,9 @@
 ---
 name: vercel-development
 description: Vercel and Next.js deployment best practices including server components, edge functions, AI SDK integration, and performance optimization.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Vercel Development Best Practices

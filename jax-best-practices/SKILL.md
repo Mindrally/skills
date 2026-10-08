@@ -1,6 +1,9 @@
 ---
 name: jax-best-practices
 description: Expert in JAX for high-performance numerical computing and machine learning
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # JAX Best Practices

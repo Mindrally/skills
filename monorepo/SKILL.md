@@ -1,6 +1,9 @@
 ---
 name: monorepo
 description: Best practices for monorepo development with TypeScript, React, Next.js, Expo, Turbo, and related technologies
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Monorepo Development

@@ -1,6 +1,9 @@
 ---
 name: nestjs-clean-typescript
 description: Clean NestJS API development with TypeScript following SOLID principles, modular architecture, and comprehensive testing practices.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # NestJS Clean TypeScript

@@ -1,6 +1,9 @@
 ---
 name: prisma-development
 description: Comprehensive Prisma ORM development guidelines with TypeScript, schema design, migrations, and best practices.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Prisma ORM Development

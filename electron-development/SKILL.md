@@ -1,6 +1,9 @@
 ---
 name: electron-development
 description: Electron development guidelines for building cross-platform desktop applications with JavaScript/TypeScript
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Electron Development Guidelines

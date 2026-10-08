@@ -1,6 +1,9 @@
 ---
 name: data-analyst
 description: Data analysis best practices with pandas, numpy, matplotlib, seaborn, and Jupyter notebooks.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Data Analyst

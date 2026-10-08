@@ -1,6 +1,9 @@
 ---
 name: git-workflow
 description: Git conventions and workflow guidelines using Conventional Commits, branching strategies, and best practices for version control
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Git Workflow Best Practices

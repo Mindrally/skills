@@ -1,6 +1,9 @@
 ---
 name: rabbitmq-development
 description: Best practices and guidelines for RabbitMQ message queue development with AMQP protocol
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # RabbitMQ Development

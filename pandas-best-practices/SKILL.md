@@ -1,6 +1,9 @@
 ---
 name: pandas-best-practices
 description: Best practices for Pandas data manipulation, analysis, and DataFrame operations in Python
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Pandas Best Practices

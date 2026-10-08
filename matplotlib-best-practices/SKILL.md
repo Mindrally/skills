@@ -1,6 +1,9 @@
 ---
 name: matplotlib-best-practices
 description: Best practices for Matplotlib data visualization, plotting, and creating publication-quality figures in Python
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Matplotlib Best Practices

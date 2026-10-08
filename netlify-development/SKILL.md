@@ -1,6 +1,9 @@
 ---
 name: netlify-development
 description: "Best practices for building and deploying Netlify sites, covering serverless and edge functions, Netlify Blobs storage, the Image CDN, and build configuration. Use when writing Netlify Functions or Edge Functions, configuring netlify.toml or redirects/headers, managing environment variables across deploy contexts, working with Netlify Blobs, or setting up local development and deploy previews."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Netlify Development Best Practices

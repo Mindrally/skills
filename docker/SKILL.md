@@ -1,6 +1,9 @@
 ---
 name: docker
 description: Docker containerization best practices for building, securing, and deploying containers.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Docker Development

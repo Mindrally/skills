@@ -1,6 +1,9 @@
 ---
 name: machine-learning
 description: Machine learning development with JAX, functional programming patterns, and high-performance computing.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Machine Learning

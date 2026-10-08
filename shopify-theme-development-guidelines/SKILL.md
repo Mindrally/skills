@@ -1,6 +1,9 @@
 ---
 name: shopify-theme-development-guidelines
 description: Expert Shopify theme development with Liquid, Online Store 2.0, and performance best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Shopify Theme Development Guidelines

@@ -1,6 +1,9 @@
 ---
 name: typescript
 description: Expert in TypeScript development with best practices for type safety and clean code
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # TypeScript

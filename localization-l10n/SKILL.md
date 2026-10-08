@@ -1,6 +1,9 @@
 ---
 name: localization-l10n
 description: Implement localization (l10n) best practices to adapt applications for specific regions, languages, and cultural preferences.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Localization (l10n)

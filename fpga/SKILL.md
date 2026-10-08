@@ -1,6 +1,9 @@
 ---
 name: fpga
 description: FPGA development guidelines covering Vivado, SystemVerilog, timing closure, AXI interfaces, and hardware optimization.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # FPGA Development

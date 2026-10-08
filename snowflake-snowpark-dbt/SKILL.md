@@ -1,6 +1,9 @@
 ---
 name: snowflake-snowpark-dbt
 description: "Best practices for Snowpark Python (DataFrames, UDFs, UDTFs, stored procedures) and dbt with the dbt-snowflake adapter. Use when writing server-side Snowpark pipelines, registering UDFs or stored procedures, choosing dbt materializations, configuring incremental models, or setting up sources and tests for a Snowflake-backed dbt project."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Snowflake Snowpark Python & dbt

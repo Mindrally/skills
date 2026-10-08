@@ -1,6 +1,9 @@
 ---
 name: postgresql-best-practices
 description: PostgreSQL development best practices for schema design, query optimization, and database administration
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # PostgreSQL Best Practices

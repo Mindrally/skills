@@ -1,6 +1,9 @@
 ---
 name: observability-guidelines
 description: Observability guidelines for distributed systems using OpenTelemetry, tracing, metrics, and structured logging
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Observability Guidelines

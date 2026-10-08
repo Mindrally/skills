@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Install help
+    url: https://github.com/vercel-labs/skills
+    about: Problems with the npx skills CLI itself belong in the skills CLI repo.

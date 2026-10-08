@@ -1,6 +1,9 @@
 ---
 name: koa-typescript
 description: Guidelines for building modern APIs with Koa.js and TypeScript, featuring the onion middleware model and async/await patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Koa TypeScript Development

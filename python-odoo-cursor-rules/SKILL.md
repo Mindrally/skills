@@ -1,6 +1,9 @@
 ---
 name: python-odoo-cursor-rules
 description: Guidelines for Python and Odoo enterprise application development with ORM, XML views, and module architecture best practices.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Python and Odoo Development

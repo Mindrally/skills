@@ -1,6 +1,9 @@
 ---
 name: systemverilog
 description: SystemVerilog development guidelines for FPGA and ASIC design covering modular design, verification, and timing optimization.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # SystemVerilog Development

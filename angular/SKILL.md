@@ -1,6 +1,9 @@
 ---
 name: angular
 description: Expert in Angular TypeScript development with scalable, high-performance patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Angular

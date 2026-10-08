@@ -1,6 +1,9 @@
 ---
 name: java-quarkus-development
 description: Java Quarkus development guidelines for building cloud-native applications with fast startup, minimal memory footprint, and GraalVM native builds
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Java Quarkus Development Best Practices

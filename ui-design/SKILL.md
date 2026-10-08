@@ -1,6 +1,9 @@
 ---
 name: ui-design
 description: UI design best practices for building accessible, performant, and user-friendly interfaces with modern web standards
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # UI Design Best Practices

@@ -1,6 +1,9 @@
 ---
 name: pnpm
 description: Best practices for pnpm package manager, workspace management, and monorepo configuration
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # pnpm Development

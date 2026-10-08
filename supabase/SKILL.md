@@ -1,6 +1,9 @@
 ---
 name: supabase
 description: Expert in Supabase backend development with authentication and database patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Supabase

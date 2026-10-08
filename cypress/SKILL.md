@@ -1,6 +1,9 @@
 ---
 name: cypress
 description: Cypress end-to-end testing best practices for web applications, covering test structure, commands, and reliability patterns.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Cypress Testing Best Practices

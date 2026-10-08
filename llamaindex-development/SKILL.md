@@ -1,6 +1,9 @@
 ---
 name: llamaindex-development
 description: Expert guidance for LlamaIndex development including RAG applications, vector stores, document processing, query engines, and building production AI applications.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # LlamaIndex Development

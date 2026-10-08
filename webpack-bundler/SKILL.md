@@ -1,6 +1,9 @@
 ---
 name: webpack-bundler
 description: Best practices and guidelines for Webpack module bundler configuration, optimization, and development workflows
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Webpack Bundler

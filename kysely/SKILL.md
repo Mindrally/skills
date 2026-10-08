@@ -1,6 +1,9 @@
 ---
 name: kysely
 description: Guidelines for developing with Kysely, a type-safe TypeScript SQL query builder with autocompletion support
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Kysely Development Guidelines

@@ -1,6 +1,9 @@
 ---
 name: pyspark-etl
 description: "Best practices for building performant, testable PySpark ETL pipelines with Spark SQL and Apache Iceberg. Use when writing or reviewing PySpark jobs, designing joins and window functions, working with map/array higher-order functions, or building idempotent cumulative/snapshot table merges."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # PySpark ETL

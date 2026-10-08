@@ -1,6 +1,9 @@
 ---
 name: langchain-development
 description: Expert guidance for LangChain and LangGraph development with Python, covering chain composition, agents, memory, and RAG implementations.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # LangChain Development

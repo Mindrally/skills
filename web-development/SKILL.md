@@ -1,6 +1,9 @@
 ---
 name: web-development
 description: Web development guidelines covering Bootstrap, Django, HTMX, and general web best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Web Development Guidelines

@@ -1,6 +1,9 @@
 ---
 name: supabase-development
 description: Supabase development guidelines for database, authentication, real-time subscriptions, and Edge Functions.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Supabase Development

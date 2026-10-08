@@ -1,6 +1,9 @@
 ---
 name: react-native-r3f
 description: Expert guidance for React Three Fiber development with React, Vite, Tailwind CSS, and three.js
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # React Native R3F (React Three Fiber)

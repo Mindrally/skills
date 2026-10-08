@@ -1,6 +1,9 @@
 ---
 name: nuxtjs-vue-typescript
 description: "Best practices for building Nuxt 3 and Vue 3 applications with TypeScript, the Composition API, and Tailwind CSS. Use when structuring Nuxt/Vue projects, writing composables, typing components and props, wiring up server routes and plugins, or optimizing Nuxt builds and Web Vitals."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # NuxtJS Vue TypeScript Development

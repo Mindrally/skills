@@ -1,6 +1,9 @@
 ---
 name: oauth-implementation
 description: Guidelines for implementing OAuth 2.0 and OAuth 2.1 authentication flows with security best practices and PKCE
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # OAuth Implementation

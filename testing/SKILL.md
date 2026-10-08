@@ -1,6 +1,9 @@
 ---
 name: testing
 description: General testing best practices and guidelines for writing comprehensive, maintainable tests across different testing frameworks and languages.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Testing Best Practices

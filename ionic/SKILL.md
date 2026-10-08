@@ -1,6 +1,9 @@
 ---
 name: ionic
 description: Ionic development guidelines for building cross-platform mobile applications with Angular, Cordova, and Firebase integration.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Ionic Development

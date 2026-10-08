@@ -1,6 +1,9 @@
 ---
 name: elixir
 description: Expert in Elixir and Phoenix development with functional programming patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Elixir

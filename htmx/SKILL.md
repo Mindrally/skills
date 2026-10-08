@@ -1,6 +1,9 @@
 ---
 name: htmx
 description: HTMX development guidelines for building dynamic web applications with minimal JavaScript using HTML attributes.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # HTMX Development

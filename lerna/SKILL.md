@@ -1,6 +1,9 @@
 ---
 name: lerna
 description: Best practices for Lerna monorepo management, versioning, and publishing
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Lerna Monorepo Development

@@ -1,6 +1,9 @@
 ---
 name: react-native-cursor-rules
 description: React Native development best practices for TypeScript, functional components, performance optimization, and styling guidelines.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # React Native Cursor Rules

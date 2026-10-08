@@ -1,6 +1,9 @@
 ---
 name: chrome-extension-development
 description: "Expert guidelines for Chrome extension development with Manifest V3, covering security, performance, and best practices. Use when building browser extensions, creating popup UIs, implementing content scripts, working with Chrome APIs, managing extension permissions, or publishing to Chrome Web Store."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Chrome Extension Development

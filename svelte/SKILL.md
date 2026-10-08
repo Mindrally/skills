@@ -1,6 +1,9 @@
 ---
 name: svelte
 description: "Modern Svelte 5 and SvelteKit development covering runes-based reactivity, snippets, SSR/SSG, and state management, including migration notes from legacy Svelte 4 syntax. Use when writing or reviewing Svelte components, deciding between runes and legacy reactive statements, building SvelteKit routes and load functions, or migrating a Svelte 4 codebase to Svelte 5."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Svelte / SvelteKit

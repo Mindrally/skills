@@ -1,6 +1,9 @@
 ---
 name: gitlab-workflow
 description: GitLab best practices for merge requests, CI/CD pipelines, issue tracking, and DevOps workflows
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # GitLab Workflow Best Practices

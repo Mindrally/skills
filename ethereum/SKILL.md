@@ -1,6 +1,9 @@
 ---
 name: ethereum
 description: Expert guidelines for Ethereum smart contract development with Solidity, OpenZeppelin, and Hardhat
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Ethereum Development

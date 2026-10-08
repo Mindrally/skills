@@ -1,6 +1,9 @@
 ---
 name: quarkus
 description: Expert guidance for Quarkus framework development with Jakarta EE, MicroProfile, GraalVM native builds, and reactive programming patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Quarkus

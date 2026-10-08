@@ -1,6 +1,9 @@
 ---
 name: html
 description: Guidelines for semantic HTML markup, document structure, forms, accessibility attributes, and modern HTML best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # HTML Development Guidelines

@@ -1,6 +1,9 @@
 ---
 name: unity
 description: Expert in Unity and C# game development with performance optimization patterns
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Unity

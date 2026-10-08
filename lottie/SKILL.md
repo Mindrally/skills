@@ -1,6 +1,9 @@
 ---
 name: lottie
 description: Expert guidelines for implementing performant Lottie animations on the web
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Lottie Animation Guidelines

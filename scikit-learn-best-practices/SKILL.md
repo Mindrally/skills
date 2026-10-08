@@ -1,6 +1,9 @@
 ---
 name: scikit-learn-best-practices
 description: Best practices for scikit-learn machine learning, model development, evaluation, and deployment in Python
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Scikit-learn Best Practices

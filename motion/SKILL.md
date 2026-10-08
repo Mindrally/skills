@@ -1,6 +1,9 @@
 ---
 name: motion
 description: Expert guidelines for building performant animations with Motion (formerly Motion One) vanilla JavaScript animation library
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Motion Animation Guidelines

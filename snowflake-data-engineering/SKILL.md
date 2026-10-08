@@ -1,6 +1,9 @@
 ---
 name: snowflake-data-engineering
 description: "Best practices for Snowflake SQL, semi-structured data, and data pipelines built with Dynamic Tables, Streams, Tasks, and Snowpipe. Use when writing Snowflake SQL, designing ingestion or transformation pipelines, tuning warehouse performance and cost, or working with Time Travel, cloning, RBAC, or Iceberg tables on Snowflake."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Snowflake Data Engineering

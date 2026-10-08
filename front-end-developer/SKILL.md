@@ -1,6 +1,9 @@
 ---
 name: front-end-developer
 description: Senior Front-End Developer expertise in ReactJS, NextJS, JavaScript, TypeScript, HTML, CSS, and modern UI/UX frameworks
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Front-End Developer

@@ -1,6 +1,9 @@
 ---
 name: redux-toolkit
 description: Comprehensive Redux Toolkit best practices for React and Next.js applications with TypeScript.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Redux Toolkit

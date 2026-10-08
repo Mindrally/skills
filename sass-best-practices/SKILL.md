@@ -1,6 +1,9 @@
 ---
 name: sass-best-practices
 description: Sass (indented syntax) best practices and coding guidelines for clean, maintainable stylesheets
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Sass Best Practices

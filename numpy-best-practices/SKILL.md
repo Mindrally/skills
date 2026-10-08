@@ -1,6 +1,9 @@
 ---
 name: numpy-best-practices
 description: Best practices for NumPy array programming, numerical computing, and performance optimization in Python
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # NumPy Best Practices

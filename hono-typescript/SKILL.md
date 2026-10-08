@@ -1,6 +1,9 @@
 ---
 name: hono-typescript
 description: Guidelines for building edge-first, high-performance APIs with Hono and TypeScript for Cloudflare Workers, Deno, Bun, and Node.js
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Hono TypeScript Development

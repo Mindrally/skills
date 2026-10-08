@@ -1,6 +1,9 @@
 ---
 name: nx
 description: Best practices for Nx monorepo development, project configuration, and code generation
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Nx Monorepo Development

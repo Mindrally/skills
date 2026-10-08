@@ -1,6 +1,9 @@
 ---
 name: django-rest-api-development
 description: Comprehensive guidelines for building scalable Django REST APIs with proper architecture, authentication, and performance optimization.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Django REST API Development

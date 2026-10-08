@@ -1,6 +1,9 @@
 ---
 name: solidity
 description: "Best practices for secure, gas-efficient Solidity smart contract development and Web3 frontend integration. Use when writing or reviewing Solidity contracts, hardening against reentrancy and access-control bugs, optimizing gas usage, setting up Hardhat/Foundry testing and static analysis, or wiring a React frontend to wallets, providers, and on-chain transactions."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Solidity

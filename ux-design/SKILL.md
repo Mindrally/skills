@@ -1,6 +1,9 @@
 ---
 name: ux-design
 description: UX design principles for creating intuitive, accessible, and user-centered digital experiences
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # UX Design Best Practices

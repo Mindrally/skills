@@ -1,6 +1,9 @@
 ---
 name: ruby-rails
 description: "Conventions and best practices for building web applications with Ruby on Rails. Use when scaffolding Rails apps or generators, designing ActiveRecord models and migrations, wiring up Hotwire/Turbo/Stimulus interactivity, setting up background jobs or caching, or writing RSpec/Minitest coverage for Rails code."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Ruby on Rails

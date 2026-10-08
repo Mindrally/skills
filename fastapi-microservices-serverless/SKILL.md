@@ -1,6 +1,9 @@
 ---
 name: fastapi-microservices-serverless
 description: Expert in FastAPI microservices for serverless and cloud-native environments
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # FastAPI Microservices Serverless

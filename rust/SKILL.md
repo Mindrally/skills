@@ -1,6 +1,9 @@
 ---
 name: rust
 description: Expert in Rust development with focus on safety, performance, and async programming
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Rust

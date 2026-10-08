@@ -1,6 +1,9 @@
 ---
 name: android-development
 description: Android development guidelines for Kotlin with clean architecture, MVI pattern, Material Design, and best practices for building robust mobile applications
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Android Development Best Practices

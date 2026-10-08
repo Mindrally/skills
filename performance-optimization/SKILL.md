@@ -1,6 +1,9 @@
 ---
 name: performance-optimization
 description: Performance optimization guidelines for web development including server-side rendering, CSS best practices, and JavaScript optimization
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Performance Optimization

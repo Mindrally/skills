@@ -1,6 +1,9 @@
 ---
 name: aws-development
 description: AWS development best practices for Lambda, SAM, CDK, DynamoDB, IAM, and serverless architecture using Infrastructure as Code.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # AWS Development Best Practices

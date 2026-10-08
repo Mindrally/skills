@@ -1,6 +1,9 @@
 ---
 name: vue-pinia
 description: "Vue 3 state management with Pinia using the Composition API, covering setup stores, SSR/Nuxt integration, persistence, and testing. Use when creating or refactoring Pinia stores, deciding what state belongs in a store versus a component, wiring stores into router guards, persisting store state to storage, or testing store actions with @pinia/testing."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Vue + Pinia

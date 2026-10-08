@@ -1,6 +1,9 @@
 ---
 name: drupal-development
 description: Expert guidance for Drupal 10 module development with PHP 8+, SOLID principles, and Drupal coding standards
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Drupal Development

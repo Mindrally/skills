@@ -1,6 +1,9 @@
 ---
 name: deep-learning-pytorch
 description: Expert guidance for deep learning, transformers, diffusion models, and LLM development with PyTorch, Transformers, Diffusers, and Gradio.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Deep Learning and PyTorch Development

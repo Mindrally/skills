@@ -1,6 +1,9 @@
 ---
 name: playwright
 description: Playwright end-to-end testing best practices for web applications, covering test design, locator strategies, and assertion patterns.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Playwright Testing Best Practices

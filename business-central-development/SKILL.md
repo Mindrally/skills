@@ -1,6 +1,9 @@
 ---
 name: business-central-development
 description: Expert guidance for Microsoft Dynamics 365 Business Central development using AL language and extensions
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Microsoft Dynamics 365 Business Central Development

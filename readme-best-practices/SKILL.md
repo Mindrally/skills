@@ -1,6 +1,9 @@
 ---
 name: readme-best-practices
 description: "Structure, tone, and content conventions for writing effective project README files, covering hooks, quick starts, feature presentation, badges, and common documentation sections. Use when writing a new README, rewriting an existing one, or reviewing README quality for a repository, library, or CLI tool."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # README Best Practices

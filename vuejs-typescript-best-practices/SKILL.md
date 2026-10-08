@@ -1,6 +1,9 @@
 ---
 name: vuejs-typescript-best-practices
 description: Vue.js and TypeScript best practices for building performant applications with Vite, Pinia, VueUse, and Tailwind CSS.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Vue.js TypeScript Best Practices

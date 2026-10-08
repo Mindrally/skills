@@ -1,6 +1,9 @@
 ---
 name: kafka-development
 description: "Best practices for Apache Kafka event streaming and distributed messaging. Use when building event-driven architectures, implementing producer/consumer patterns, designing topic partitioning strategies, setting up Kafka Streams, configuring schema registries, or integrating change data capture pipelines."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Kafka Development

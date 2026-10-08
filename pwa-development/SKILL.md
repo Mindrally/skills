@@ -1,6 +1,9 @@
 ---
 name: pwa-development
 description: Progressive Web App development guidelines covering service workers, caching strategies, offline functionality, and installability
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Progressive Web App Development Guidelines

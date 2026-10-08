@@ -1,6 +1,9 @@
 ---
 name: nextauth-authentication
 description: Guidelines for implementing NextAuth.js (Auth.js v5) authentication in Next.js applications with session management and security best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # NextAuth Authentication

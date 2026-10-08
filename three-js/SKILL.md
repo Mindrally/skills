@@ -1,6 +1,9 @@
 ---
 name: three-js
 description: Expert guidance for Three.js and React Three Fiber development with modern React, TypeScript, and performance best practices
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Three.js Development

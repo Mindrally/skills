@@ -1,6 +1,9 @@
 ---
 name: robocorp-cursor-rules
 description: Guidelines for building RoboCorp RPA automation with Python, emphasizing functional programming, Pydantic validation, and async operations.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # RoboCorp Python Development

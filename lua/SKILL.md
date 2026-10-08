@@ -1,6 +1,9 @@
 ---
 name: lua
 description: Lua development guidelines covering tables, metatables, error handling, game development, and performance optimization.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Lua Development

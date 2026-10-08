@@ -1,6 +1,9 @@
 ---
 name: auth0-authentication
 description: Guidelines for implementing Auth0 authentication with best practices for security, rules, actions, and SDK integration
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Auth0 Authentication

@@ -1,6 +1,9 @@
 ---
 name: scipy-best-practices
 description: Best practices for SciPy scientific computing, optimization, signal processing, and statistical analysis in Python
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # SciPy Best Practices

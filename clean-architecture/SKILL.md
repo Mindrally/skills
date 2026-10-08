@@ -1,6 +1,9 @@
 ---
 name: clean-architecture
 description: Guidelines for implementing Clean Architecture patterns in Flutter and Go applications, with emphasis on separation of concerns, dependency rules, and testability.
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Clean Architecture

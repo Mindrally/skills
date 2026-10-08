@@ -1,6 +1,9 @@
 ---
 name: security-devsecops
 description: "DevSecOps, secure software development lifecycle (SSDLC), and application security (AppSec) practices covering secret handling, input validation, dependency hygiene, authentication/authorization, and CI/CD security tooling (SAST, SCA, DAST, secret scanning, IaC scanning). Use when writing code that handles credentials, user input, database queries, or authentication, when setting up a CI/CD pipeline, or when reviewing code or infrastructure for security issues."
+metadata:
+  maintainer: Mindrally
+  source: https://github.com/Mindrally/skills
 ---
 
 # Security / DevSecOps
