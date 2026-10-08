@@ -37,26 +37,46 @@ Guidelines and instructions...
 
 ## Installation
 
-### Option 1: Copy Individual Skills
+### Using `npx skills`
 
-Copy desired skill folders to your project's `.claude/skills/` directory:
+The [`skills` CLI](https://github.com/vercel-labs/skills) installs skills from this repo directly into Claude Code (and 70+ other agents) with no setup. It requires Node.js.
+
+Install a single skill into the current project:
 
 ```bash
-cp -r skills/react /path/to/your/project/.claude/skills/
+npx skills add Mindrally/skills --skill react
 ```
 
-### Option 2: Global Installation
-
-Copy skills to your global Claude Code configuration:
+Install several skills at once:
 
 ```bash
-cp -r skills/* ~/.claude/skills/
+npx skills add Mindrally/skills --skill react --skill typescript --skill tailwindcss
 ```
 
-### Option 3: Clone Entire Repository
+Install globally for all your projects (`~/.claude/skills/`), targeting Claude Code only, with no prompts:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/skills.git ~/.claude/skills
+npx skills add Mindrally/skills --skill react -g -a claude-code -y
+```
+
+Browse what's available before installing:
+
+```bash
+npx skills add Mindrally/skills --list
+```
+
+Install everything:
+
+```bash
+npx skills add Mindrally/skills --skill '*' -a claude-code
+```
+
+Other useful commands:
+
+```bash
+npx skills ls                  # list installed skills
+npx skills update              # update installed skills to the latest version
+npx skills remove react        # remove a skill
 ```
 
 ## Available Skills
